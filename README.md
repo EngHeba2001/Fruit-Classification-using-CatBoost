@@ -36,12 +36,7 @@ Depth: 6
 Loss Function: MultiClass
 Model Evaluation
 
-The model achieved exceptional classification performance:
-
-Accuracy: 100%
-Precision: 100%
-Recall: 100%
-F1-Score: 100%
+ 
 
 A 5-Fold Cross-Validation process was also conducted, demonstrating stable learning behavior and strong generalization performance across different folds.
 
